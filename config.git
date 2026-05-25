@@ -1,1 +1,5 @@
-abcdefg
+{
+    "target_class": "video-box",
+    "title_selector": ".title a",
+    "wait_time": 5
+}
