@@ -1,9 +1,9 @@
 {
     "base_url": "https://tvroom13.org",
-    "target_class": "video-card",
-    "title_selector": ".video-title a",
-    "wait_time": 5,
-    "path_movie": "/v/movie",
-    "path_drama": "/v/drama",
-    "path_variety": "/v/variety"
+    "target_class": "v-item",
+    "title_selector": ".v-item-title",
+    "wait_time": 4,
+    "path_movie": "/video/영화/한국/시간순",
+    "path_drama": "/video/드라마/한국/시간순",
+    "path_variety": "/video/예능/한국/시간순"
 }
