@@ -2,5 +2,8 @@
     "base_url": "https://tvroom13.org",
     "target_class": "v-item-footer",
     "title_selector": ".v-item-title a",
-    "wait_time": 5
+    "wait_time": 5,
+    "path_movie": "/v/movie",
+    "path_drama": "/v/drama",
+    "path_variety": "/v/variety"
 }
