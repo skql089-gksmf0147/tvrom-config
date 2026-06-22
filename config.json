@@ -1,9 +1,10 @@
 {
-  "base_url": "https://tvroom14.org",
-  "paths": {
-    "movie": "/video/영화/한국/시간순",
-    "drama": "/video/드라마/한국/시간순",
-    "variety": "/video/예능/한국/시간순"
-  },
-  "wait_time": 5
+  "version": "1.0.1",
+  "base_urls": [
+    "https://tvroom14.org",
+    "https://tvroom15.org",
+    "https://tvroom16.org"
+  ],
+  "api_path": "/api",
+  "timeout": 5
 }
