@@ -1,7 +1,8 @@
 {
     "base_url": "https://tvroom14.org",
-    "target_class": "v-item",
+    "target_class": "module-item",
     "title_selector": ".v-item-title",
+    "link_selector": "a.v-item",
     "wait_time": 4,
     "path_movie": "/video/영화/한국/시간순",
     "path_drama": "/video/드라마/한국/시간순",
