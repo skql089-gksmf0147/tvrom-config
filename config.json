@@ -1,7 +1,7 @@
 {
     "base_url": "https://tvroom15.org",
     "shortcut_url": "https://tvroom15.org",
-    "target_class": "v-item-link",
+    "target_class": "v-item",
     "title_selector": ".v-item-title",
     "wait_time": 5,
     "path_movie": "/video/영화/시간순",
