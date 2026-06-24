@@ -1,4 +1,10 @@
 {
     "base_url": "https://tvroom14.org",
-    "shortcut_url": "https://xn--jt2bx0hu7u.com"
+    "shortcut_url": "https://tvroom14.org",
+    "target_class": "v-item-link",
+    "title_selector": ".v-item-title",
+    "wait_time": 5,
+    "path_movie": "/video/영화/시간순",
+    "path_drama": "/video/드라마/시간순",
+    "path_variety": "/video/예능/시간순"
 }
