@@ -3,6 +3,7 @@
     "shortcut_url": "https://t.me/s/tvroom8282",
     "target_class": "v-item",
     "title_selector": ".v-item-hitarea",
+    "title_attribute": "aria-label",
     "wait_time": 5,
     "path_movie": "/video/영화/한국/시간순",
     "path_drama": "/video/드라마/한국/시간순",
